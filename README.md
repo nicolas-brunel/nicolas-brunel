@@ -1,7 +1,7 @@
 # Hi, I'm Nicolas 👋
 
 Systems administrator (work-study, bachelor's degree) moving into **networking**.
-I build and document home labs to practise what I learn: Cisco, firewalls, Active Directory, Linux and security monitoring.
+I build and document home labs to practice what I learn: Cisco, firewalls, Active Directory, Linux and security monitoring.
 
 📍 Annecy, France · Geneva area · 🇬🇧 🇫🇷 bilingual English / French
 
