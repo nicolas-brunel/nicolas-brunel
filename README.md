@@ -21,8 +21,9 @@ I build and document home labs to practice what I learn: Cisco, firewalls, Activ
 
 ## 🛠️ Skills
 
-**Networking** — VLANs, 802.1Q, routing, ACLs, NAT/PAT, DHCP relay, Cisco IOS, OPNsense  
-**Security** — network segmentation, DMZ, PKI / AD CS, LDAPS, TLS certificates, SSH hardening, Wazuh SIEM (custom rules) 
+**Networking** — VLANs, 802.1Q, routing, ACLs, NAT/PAT, DHCP relay, Cisco IOS, OPNsense\
+**Systems** — Windows Server, Active Directory, Group Policy, DNS/DHCP, Linux (Debian, Ubuntu)\
+**Security** — network segmentation, DMZ, PKI / AD CS, LDAPS, TLS certificates, SSH hardening, Wazuh SIEM (custom rules)\
 **Tools** — VMware, Proxmox, GLPI, OpenMediaVault, Nginx, Apache, MariaDB
 
 ## 📜 Certifications
