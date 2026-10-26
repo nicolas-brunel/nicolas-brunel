@@ -15,15 +15,14 @@ I build and document home labs to practice what I learn: Cisco, firewalls, Activ
 
 | Project | Description |
 |---|---|
-| [**homelab-lab-local**](https://github.com/nicolas-brunel/homelab-lab-local) | Small-business infrastructure: 4-zone segmented network with DMZ, OPNsense **and** Cisco versions, Active Directory with AGDLP and GPOs, GLPI helpdesk published over HTTPS, NAS with tested restores, Wazuh SIEM. Fully documented (EN / FR). |
+| [homelab-lab-local](https://github.com/<your-username>/homelab-lab-local) | Small-business infrastructure: 4-zone segmented network with DMZ, OPNsense **and** Cisco versions, Active Directory with AGDLP and GPOs, **internal PKI (AD CS) with LDAPS and trusted HTTPS**, GLPI helpdesk, NAS with tested restores, Wazuh SIEM with custom detection rules. Fully documented (EN / FR). |
 
 *More to come: CCNA labs, multi-site network with VPN, network automation.*
 
 ## 🛠️ Skills
 
 **Networking** — VLANs, 802.1Q, routing, ACLs, NAT/PAT, DHCP relay, Cisco IOS, OPNsense  
-**Systems** — Windows Server, Active Directory, Group Policy, DNS/DHCP, Linux (Debian, Ubuntu)  
-**Security** — network segmentation, DMZ, SSH hardening, Wazuh SIEM  
+**Security** — network segmentation, DMZ, PKI / AD CS, LDAPS, TLS certificates, SSH hardening, Wazuh SIEM (custom rules) 
 **Tools** — VMware, Proxmox, GLPI, OpenMediaVault, Nginx, Apache, MariaDB
 
 ## 📜 Certifications
